@@ -1,0 +1,5 @@
+Fatura ID: 1
+Carro: Carro{id=1, marca='Toyota', modelo='Corolla', ano=2020, matricula='AA-12-34'}, numeroPassageiros=5 (Passeio)
+Serviços:
+Servico{id=1, descricao='Troca de óleo', custo=50.0}
+Total: 50.0

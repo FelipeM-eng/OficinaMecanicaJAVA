@@ -1,0 +1,5 @@
+Fatura ID: 2
+Carro: Carro{id=2, marca='Ford', modelo='Transit', ano=2019, matricula='BB-56-78'}, capacidadeCarga=2000.0kg (Comercial)
+Serviços:
+Servico{id=2, descricao='Travões', custo=100.0}
+Total: 100.0
